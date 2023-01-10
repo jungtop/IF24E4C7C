@@ -14,7 +14,7 @@ source: https://library.bdrc.io
 initial_creation_type: ocr
 imported: 2022-08-31 09:26:20.614553+00:00
 last_modified: 2022-08-25 00:00:00+00:00
-parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
+parser: https://github.com/OpenPecha/Norbu-Keta-eText-import/blob/main/norbu_ketaka_parser.py
 source_metadata:
   id: http://purl.bdrc.io/resource/W4CZ1042
   status: http://purl.bdrc.io/admindata/StatusReleased
